@@ -40,8 +40,8 @@ streamlit run app.py
 Then open the local URL (usually http://localhost:8501/) in your browser.
 
 ## Try the App Online
-You can use the app directly here:
-👉 [Live Streamlit App](https://reviewpredictor.streamlit.app/)
+You can use the app directly here:<br>
+👉 [Live Streamlit App](https://reviewpredictor.streamlit.app/)<br>
 Simply type any product review in the input box and click Predict to see the sentiment.
 
 ## Features
