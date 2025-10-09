@@ -60,8 +60,9 @@ If you encounter any issues:
 ## Author
 👤 Oluyale Ezekiel
 - Email: ezekieloluyale@gmail.com
-- Twitter: [@amusEcode1](https://x.com/amusEcode1?t=uHxhLzrA1TShRiSMrYZQiQ&s=09)
+- LinkedIn: [Ezekiel Oluyale](https://www.linkedin.com/in/ezekiel-oluyale)
 - GitHub: [Product Review Sentiment Analysis](https://github.com/amusEcode1/Product_Review_Sentiment_Analysis)
+- Twitter: [@amusEcode1](https://x.com/amusEcode1?t=uHxhLzrA1TShRiSMrYZQiQ&s=09)
 
 ## Acknowledgments
 - Special thanks to [Streamlit](https://streamlit.io/)
