@@ -5,7 +5,7 @@ Product Review Sentiment Analysis – AI-Powered Sentiment Classification
 
 ## Description
 This project is a Machine Learning and NLP-powered web application that classifies product reviews as Positive or Negative.
-It uses advanced text preprocessing, TF-IDF vectorization, and Scikit-learn classifiers (such as Logistic Regression and Naïve Bayes) to analyze sentiment in real time.
+It uses advanced text preprocessing, TF-IDF vectorization, and Scikit-learn classifiers (such as Logistic Regression and Naïve Bayes) to analyze sentiment in real time.<br>
 The app is deployed with Streamlit, allowing users to input product reviews directly and instantly view the predicted sentiment.
 This serves as a hands-on example of integrating machine learning pipelines into an interactive web app.
 
@@ -45,10 +45,10 @@ You can use the app directly here:
 Simply type any product review in the input box and click Predict to see the sentiment.
 
 ## Features
-✅ Real-time sentiment prediction
-✅ Clean Streamlit user interface
-✅ Machine Learning pipeline with TF-IDF + Logistic Regression / Naïve Bayes
-✅ Text preprocessing using NLTK and BeautifulSoup
+✅ Real-time sentiment prediction<br>
+✅ Clean Streamlit user interface<br>
+✅ Machine Learning pipeline with TF-IDF + Logistic Regression / Naïve Bayes<br>
+✅ Text preprocessing using NLTK and BeautifulSoup<br>
 ✅ Interactive and lightweight deployment
 
 ## Help
