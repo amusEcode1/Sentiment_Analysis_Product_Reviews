@@ -61,7 +61,7 @@ If you encounter any issues:
 👤 Oluyale Ezekiel
 - Email: ezekieloluyale@gmail.com
 - Twitter: [@amusEcode1](https://x.com/amusEcode1?t=uHxhLzrA1TShRiSMrYZQiQ&s=09)
-- GitHub: [Product Reviews Sentiment Analysis](https://github.com/amusEcode1/Product_Review_Sentiment_Analysis)
+- GitHub: [Product Review Sentiment Analysis](https://github.com/amusEcode1/Product_Review_Sentiment_Analysis)
 
 ## Acknowledgments
 - Special thanks to [Streamlit](https://streamlit.io/)
