@@ -22,7 +22,3 @@ if st.button("Predict"):
     else:
         prediction = model.predict([review])[0]
         st.success(f"Sentiment: **{prediction}**")
-
-!jupyter nbconvert app.ipynb --to py
-
-!jupyter nbconvert --to script "/content/drive/MyDrive/ColabNotebooks/app.ipynb"
