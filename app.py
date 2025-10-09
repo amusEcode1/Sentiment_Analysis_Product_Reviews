@@ -1,6 +1,3 @@
-!pip install streamlit -q
-!pip install joblib -q
-
 from google.colab import drive
 drive.mount('/content/drive')
 
