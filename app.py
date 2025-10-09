@@ -4,7 +4,7 @@ import joblib
 # Load saved pipeline
 @st.cache_resource
 def load_model():
-    return joblib.load('/content/drive/MyDrive/model.joblib')
+    return joblib.load('/model.joblib')
     
 model = load_model()
 
