@@ -1,6 +1,3 @@
-from google.colab import drive
-drive.mount('/content/drive')
-
 import streamlit as st
 import joblib
 
@@ -8,8 +5,7 @@ import joblib
 @st.cache_resource
 def load_model():
     return joblib.load('/content/drive/MyDrive/model.joblib')
-
-
+    
 model = load_model()
 
 st.title("🛒 Product Review Sentiment Analysis")
