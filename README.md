@@ -1,7 +1,7 @@
-## 🛒 Product Review Sentiment Analysis
+## 🛒 Product Reviews Sentiment Analysis
 
 ## Project Title
-Product Review Sentiment Analysis – AI-Powered Sentiment Classification
+Product Reviews Sentiment Analysis – AI-Powered Sentiment Classification
 
 ## Description
 This project is a Machine Learning and NLP-powered web application that classifies product reviews as Positive or Negative.
@@ -61,7 +61,7 @@ If you encounter any issues:
 👤 Oluyale Ezekiel
 - Email: ezekieloluyale@gmail.com
 - Twitter: [@amusEcode1](https://x.com/amusEcode1?t=uHxhLzrA1TShRiSMrYZQiQ&s=09)
-- GitHub: [OneTimePad](https://github.com/amusEcode1/OneTimePad)
+- GitHub: [Product Reviews Sentiment Analysis](https://github.com/amusEcode1/Sentiment_Analysis_Produce_Reviews)
 
 ## Acknowledgments
 - Special thanks to [Streamlit](https://streamlit.io/)
