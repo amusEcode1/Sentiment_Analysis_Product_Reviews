@@ -9,6 +9,9 @@ It uses advanced text preprocessing, TF-IDF vectorization, and Scikit-learn clas
 The app is deployed with Streamlit, allowing users to input product reviews directly and instantly view the predicted sentiment.
 This serves as a hands-on example of integrating machine learning pipelines into an interactive web app.
 
+## Dataset Source
+[IMDB Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+
 ## Dependencies
 Before running this project locally, ensure the following are installed:
 - Python 3.x
