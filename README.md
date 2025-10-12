@@ -67,7 +67,6 @@ If you encounter any issues:
 - Twitter: [@amusEcode1](https://x.com/amusEcode1?t=uHxhLzrA1TShRiSMrYZQiQ&s=09)
 
 ## Acknowledgments
-- Special thanks to [Streamlit](https://streamlit.io/)
-- Inspired by real-world e-commerce sentiment analysis.
+Thank you, Elevvo, for the incredible opportunity and amazing Internship.
 
 Analyze smarter. Build better. 
