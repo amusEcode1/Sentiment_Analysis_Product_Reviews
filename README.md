@@ -68,5 +68,3 @@ If you encounter any issues:
 
 ## Acknowledgments
 Thank you, Elevvo, for the incredible opportunity and amazing Internship.
-
-Analyze smarter. Build better. 
