@@ -10,10 +10,10 @@ This project is a **Natural Language Processing (NLP)** application that classif
   - **Multinomial Naive Bayes** (Accuracy: **88.35%**)
 - Evaluated model performance using **accuracy** and **classification reports**
 
-## Dataset Source
+## 📂 Dataset
 The dataset used is the IMDb reviews dataset (50,000+ samples)
-
-[IMDB Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+- [Kaggle - IMDb Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+- [Google Drive - IMDb Dataset](https://drive.google.com/file/d/1JsU2vlOo1D40xl7SEC7QTgb2GEh38WgN/view?usp=drivesdk)
 
 ## Dependencies
 Before running this project locally, ensure the following are installed:
