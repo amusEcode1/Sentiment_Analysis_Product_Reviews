@@ -39,7 +39,7 @@ The dataset used is the IMDb reviews dataset (50,000+ samples).
 - Python (NumPy, Pandas, Matplotlib, Seaborn, WordCloud, BeautifulSoup, NLTK, Scikit-learn)
 - Streamlit — for model deployment and visualization
 
-## Dependencies
+## 📦 Dependencies
 Before running this project locally, ensure the following are installed:
 - Python 3.x
 - Streamlit
