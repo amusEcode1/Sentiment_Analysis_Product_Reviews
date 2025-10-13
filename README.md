@@ -27,6 +27,7 @@ Before running this project locally, ensure the following are installed:
 - Joblib
 
 ## 📂 Folder Structure
+tree /F
 
 ## Installing
 To install Streamlit:
