@@ -47,7 +47,7 @@ Before running this project locally, ensure the following are installed:
 - WordCloud
 - Joblib
 
-## Installing
+### Installing
 To install Streamlit:
 ```sh
 pip install streamlit
@@ -57,24 +57,24 @@ To install all required dependencies:
 pip install -r requirements.txt
 ```
 
-## Running the Application Locally
+### Running the Application Locally
 ```sh
 streamlit run app.py
 ```
 Then open the local URL (usually http://localhost:8501/) in your browser.
 
-## Try the App Online
+### Try the App Online
 You can use the app directly here: [Review Predictor](https://reviewpredictor.streamlit.app/)<br>
 Simply type any product review in the input box and click Predict to see the sentiment.
 
-## Features
+### Features
 ✅ Real-time sentiment prediction<br>
 ✅ Clean Streamlit user interface<br>
 ✅ Machine Learning pipeline with TF-IDF + Logistic Regression / Naïve Bayes<br>
 ✅ Text preprocessing using NLTK and BeautifulSoup<br>
 ✅ Interactive and lightweight deployment
 
-## 📂 Folder Structure
+### 📂 Folder Structure
 ```
 Product-Review-Sentiment-Analysis/
 ├── app.py               
@@ -85,18 +85,18 @@ Product-Review-Sentiment-Analysis/
 └── README.md          
 ```
 
-## Help
+### Help
 If you encounter any issues:
 - Check the [Streamlit Documentation](https://docs.streamlit.io/)
 - Search for similar issues or solutions on [Kaggle](https://www.kaggle.com/)
 - Open an issue in this repository
 
-## Author
+### Author
 👤 Oluyale Ezekiel
 - Email: ezekieloluyale@gmail.com
 - LinkedIn: [Ezekiel Oluyale](https://www.linkedin.com/in/ezekiel-oluyale)
 - GitHub: [Product Review Sentiment Analysis](https://github.com/amusEcode1/Product_Review_Sentiment_Analysis)
 - Twitter: [@amusEcode1](https://x.com/amusEcode1?t=uHxhLzrA1TShRiSMrYZQiQ&s=09)
 
-## Acknowledgments
+### Acknowledgments
 Thank you, Elevvo, for the incredible opportunity and amazing Internship.
