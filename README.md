@@ -12,7 +12,7 @@ This project is a **Natural Language Processing (NLP)** application that classif
 - Deployment: Built a simple Streamlit app for interactive prediction.
 
 ### 📂 Dataset
-The dataset used is the IMDb reviews dataset (50,000+ samples)
+The dataset used is the IMDb reviews dataset (50,000+ samples).
 - [Kaggle - IMDb Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - [Google Drive - IMDb Dataset](https://drive.google.com/file/d/1JsU2vlOo1D40xl7SEC7QTgb2GEh38WgN/view?usp=drivesdk)
 
@@ -67,13 +67,6 @@ Then open the local URL (usually http://localhost:8501/) in your browser.
 ### Try the App Online
 You can use the app directly here: [Review Predictor](https://reviewpredictor.streamlit.app/)<br>
 Simply type any product review in the input box and click Predict to see the sentiment.
-
-### Features
-✅ Real-time sentiment prediction<br>
-✅ Clean Streamlit user interface<br>
-✅ Machine Learning pipeline with TF-IDF + Logistic Regression / Naïve Bayes<br>
-✅ Text preprocessing using NLTK and BeautifulSoup<br>
-✅ Interactive and lightweight deployment
 
 ### 📂 Folder Structure
 ```
