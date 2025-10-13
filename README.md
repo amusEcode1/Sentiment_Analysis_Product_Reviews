@@ -73,6 +73,13 @@ Then open the local URL (usually http://localhost:8501/) in your browser.
 You can use the app directly here: [Review Predictor](https://reviewpredictor.streamlit.app/)<br>
 Simply type any product review in the input box and click Predict to see the sentiment.
 
+## 💡 Features
+- Clean and preprocess raw text
+- Extract meaningful features using TF-IDF
+- Train multiple ML models for comparison
+- Visualize model metrics and word distributions
+- Deploy an interactive app via Streamlit
+
 ## 📂 Folder Structure
 ```
 Product-Review-Sentiment-Analysis/
