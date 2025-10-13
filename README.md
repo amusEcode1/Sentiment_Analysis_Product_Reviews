@@ -2,13 +2,14 @@
 This project is a **Natural Language Processing (NLP)** application that classifies product reviews as **positive** or **negative**.
 
 ### 🧩 Key Steps:
-- Cleaned and preprocessed text (tokenization, stopword removal, lemmatization, etc.)
-- Extracted features with **TF-IDF**
-- Built a complete **ML pipeline** for preprocessing, feature extraction, and model training
-- Trained and compared multiple models:
+- Data Cleaning: Tokenization, stopword removal, lemmatization, et.c
+- Feature Extraction: Using **TF-IDF** vectorization
+- Model Training: Trained and compared multiple models:
   - **Logistic Regression** 
   - **Multinomial Naive Bayes**
-- Evaluated model performance using **accuracy** and **classification reports**
+- Visualization: Generated word clouds and confusion matrices for both models.
+- Evaluation: Measured model accuracy, precision, recall, and F1-score.
+- Deployment: Built a simple Streamlit app for interactive prediction.
 
 ### 📂 Dataset
 The dataset used is the IMDb reviews dataset (50,000+ samples)
