@@ -26,6 +26,8 @@ Before running this project locally, ensure the following are installed:
 - WordCloud
 - Joblib
 
+## 📂 Folder Structure
+
 ## Installing
 To install Streamlit:
 ```sh
