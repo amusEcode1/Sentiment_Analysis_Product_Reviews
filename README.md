@@ -18,7 +18,7 @@ The dataset used is the IMDb reviews dataset (50,000+ samples)
 ### 📊 Visualizations
 - Most frequent Positive and Negative words (WordCloud)
 - Confusion Matrix for both Models
-- Compared Model Performances<br>
+- Compared Model Performances
 ![Top Positive Words](images/top_positive_words.png)
 ![Top Negative Words](images/top_negative_words.png)
 ![Confusion Matrix (Logistic Regression)](images/confusion_matrix_logistic_regression.png)
@@ -64,7 +64,7 @@ streamlit run app.py
 Then open the local URL (usually http://localhost:8501/) in your browser.
 
 ## Try the App Online
-You can use the app directly here: [Live Streamlit App](https://reviewpredictor.streamlit.app/)<br>
+You can use the app directly here: [Review Predictor](https://reviewpredictor.streamlit.app/)<br>
 Simply type any product review in the input box and click Predict to see the sentiment.
 
 ## Features
