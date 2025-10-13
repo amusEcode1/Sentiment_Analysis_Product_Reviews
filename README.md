@@ -6,8 +6,8 @@ This project is a **Natural Language Processing (NLP)** application that classif
 - Extracted features with **TF-IDF**
 - Built a complete **ML pipeline** for preprocessing, feature extraction, and model training
 - Trained and compared multiple models:
-  - **Logistic Regression** (Accuracy: **89.39%**)  
-  - **Multinomial Naive Bayes** (Accuracy: **88.35%**)
+  - **Logistic Regression** 
+  - **Multinomial Naive Bayes**
 - Evaluated model performance using **accuracy** and **classification reports**
 
 ### 📂 Dataset
@@ -21,8 +21,14 @@ The dataset used is the IMDb reviews dataset (50,000+ samples)
 - Compared Model Performances
 ![Top Positive Words](images/top_positive_words.png)
 ![Top Negative Words](images/top_negative_words.png)
-![Confusion Matrix (Naive Bayes(multinomial))](images/confusion_matrix_naive_bayes_(multinomial).png)
 ![Confusion Matrix (Logistic Regression)](images/confusion_matrix_logistic_regression.png)
+![Confusion Matrix (Naive Bayes(multinomial))](images/confusion_matrix_naive_bayes_(multinomial).png)
+| Model | Accuracy | Remarks |
+|--------|-----------|----------|
+| **Logistic Regression** | **89.39** | 🏆 Best performance |
+| Multinomial Naive Bayes | 88.35% | - |
+
+
 
 ## Dependencies
 Before running this project locally, ensure the following are installed:
