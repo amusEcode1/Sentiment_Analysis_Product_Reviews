@@ -22,7 +22,7 @@ The dataset used is the IMDb reviews dataset (50,000+ samples)
 ![Top Positive Words](images/top_positive_words.png)
 ![Top Negative Words](images/top_negative_words.png)
 ![Confusion Matrix (Naive Bayes(multinomial))](images/confusion_matrix_naive_bayes_(multinomial).png)
-![Confusion Matrix (Logistic Regression)](images/confusion_matrix_logistic_regression).png)
+![Confusion Matrix (Logistic Regression)](images/confusion_matrix_logistic_regression.png)
 
 ## Dependencies
 Before running this project locally, ensure the following are installed:
