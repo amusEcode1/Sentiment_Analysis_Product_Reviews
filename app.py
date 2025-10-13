@@ -28,7 +28,7 @@ if st.button("Predict"):
 
         st.markdown(
             f"<div style='background-color: {color}; color: {text_color}; padding: 15px; border-radius: 5px;'>"
-            f"<h3>Sentiment: {prediction}</h3>"
+            f"<h4>Sentiment: {prediction}</h4>"
             f"</div>",
             unsafe_allow_html=True
         )
