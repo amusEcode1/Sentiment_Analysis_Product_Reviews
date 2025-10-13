@@ -18,7 +18,7 @@ The dataset used is the IMDb reviews dataset (50,000+ samples)
 ### 📊 Visualizations
 - Most frequent Positive and Negative words (WordCloud)
 - Confusion Matrix for both Models
-- Compared Model Performances
+- Compared Model Performances<br>
 ![Top Positive Words](images/top_positive_words.png)
 ![Top Negative Words](images/top_negative_words.png)
 ![Confusion Matrix (Logistic Regression)](images/confusion_matrix_logistic_regression.png)
