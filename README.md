@@ -97,5 +97,5 @@ If you encounter any issues:
 - GitHub: [Product Review Sentiment Analysis](https://github.com/amusEcode1/Product_Review_Sentiment_Analysis)
 - Twitter: [@amusEcode1](https://x.com/amusEcode1?t=uHxhLzrA1TShRiSMrYZQiQ&s=09)
 
-### Acknowledgments
+## 🙏 Acknowledgement
 Thank you, Elevvo, for the incredible opportunity and amazing Internship.
