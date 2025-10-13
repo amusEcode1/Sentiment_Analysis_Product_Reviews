@@ -1,15 +1,18 @@
 ## 🛒 Product Review Sentiment Analysis
+This project is a **Natural Language Processing (NLP)** application that classifies product reviews as **positive** or **negative**.
 
-## Project Title
-Product Review – AI-Powered Sentiment Classification
-
-## Description
-This project is a Machine Learning and NLP-powered web application that classifies product reviews as Positive or Negative.
-It uses advanced text preprocessing, TF-IDF vectorization, and Scikit-learn classifiers (such as Logistic Regression and Naïve Bayes) to analyze sentiment in real time.<br>
-The app is deployed with Streamlit, allowing users to input product reviews directly and instantly view the predicted sentiment.
-This serves as a hands-on example of integrating machine learning pipelines into an interactive web app.
+### 🧩 Key Steps:
+- Cleaned and preprocessed text (tokenization, stopword removal, lemmatization, etc.)
+- Extracted features with **TF-IDF**
+- Built a complete **ML pipeline** for preprocessing, feature extraction, and model training
+- Trained and compared multiple models:
+  - **Logistic Regression** (Accuracy: **89.39%**)  
+  - **Multinomial Naive Bayes** (Accuracy: **88.35%**)
+- Evaluated model performance using **accuracy** and **classification reports**
 
 ## Dataset Source
+The dataset used is the IMDb reviews dataset (50,000+ samples)
+
 [IMDB Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## Dependencies
