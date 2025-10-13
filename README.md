@@ -27,8 +27,15 @@ Before running this project locally, ensure the following are installed:
 - Joblib
 
 ## 📂 Folder Structure
-tree /F
-
+```
+Product-Review-Sentiment-Analysis/
+├── app.py               
+├── model.joblib         
+├── requirements.txt     
+├── images/              
+│   ├── ...             
+└── README.md          
+```
 ## Installing
 To install Streamlit:
 ```sh
