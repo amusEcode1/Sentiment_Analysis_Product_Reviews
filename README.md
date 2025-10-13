@@ -29,9 +29,11 @@ The dataset used is the IMDb reviews dataset (50,000+ samples)
 | **Logistic Regression** | **89.39%** | 🏆 Best performance |
 | Multinomial Naive Bayes | 88.35% | — |
 
+### 🧠 Tech Stack & Tools: 
+- Python (NumPy, Pandas, Matplotlib, Seaborn, WordCloud, BeautifulSoup, NLTK, Scikit-learn)
+- Streamlit — for model deployment and visualization
 
-
-## Dependencies
+### Dependencies
 Before running this project locally, ensure the following are installed:
 - Python 3.x
 - Streamlit
@@ -45,16 +47,6 @@ Before running this project locally, ensure the following are installed:
 - WordCloud
 - Joblib
 
-## 📂 Folder Structure
-```
-Product-Review-Sentiment-Analysis/
-├── app.py               
-├── model.joblib         
-├── requirements.txt     
-├── images/              
-│   ├── ...             
-└── README.md          
-```
 ## Installing
 To install Streamlit:
 ```sh
@@ -81,6 +73,17 @@ Simply type any product review in the input box and click Predict to see the sen
 ✅ Machine Learning pipeline with TF-IDF + Logistic Regression / Naïve Bayes<br>
 ✅ Text preprocessing using NLTK and BeautifulSoup<br>
 ✅ Interactive and lightweight deployment
+
+## 📂 Folder Structure
+```
+Product-Review-Sentiment-Analysis/
+├── app.py               
+├── model.joblib         
+├── requirements.txt     
+├── images/              
+│   ├── ...             
+└── README.md          
+```
 
 ## Help
 If you encounter any issues:
