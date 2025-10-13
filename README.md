@@ -97,7 +97,7 @@ If you encounter any issues:
 - Search for similar issues or solutions on [Kaggle](https://www.kaggle.com/)
 - Open an issue in this repository
 
-## Author
+## ✍️ Author
 👤 Oluyale Ezekiel
 - Email: ezekieloluyale@gmail.com
 - LinkedIn: [Ezekiel Oluyale](https://www.linkedin.com/in/ezekiel-oluyale)
