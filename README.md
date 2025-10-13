@@ -15,6 +15,11 @@ The dataset used is the IMDb reviews dataset (50,000+ samples)
 - [Kaggle - IMDb Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - [Google Drive - IMDb Dataset](https://drive.google.com/file/d/1JsU2vlOo1D40xl7SEC7QTgb2GEh38WgN/view?usp=drivesdk)
 
+### 📊 Visualizations
+- Most frequent Positive and Negative words (WordCloud)
+- Confusion Matrix for both Models
+- Compared Model Performances
+
 ## Dependencies
 Before running this project locally, ensure the following are installed:
 - Python 3.x
