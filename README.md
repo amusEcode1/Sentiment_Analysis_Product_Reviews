@@ -30,7 +30,7 @@ The dataset used is the IMDb reviews dataset (50,000+ samples).
 ![Confusion Matrix (Naive Bayes(multinomial))](images/confusion_matrix_naive_bayes_(multinomial).png)
 
 ### Model Comparison
-![compare_accuracy](images/compare_model_accuracy.png)
+![model_accuracy_comparison](images/compare_accuracy.png)
 
 ### 📊 Model Performance Comparison
 | Model | Accuracy | Remarks |
