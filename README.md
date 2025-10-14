@@ -29,6 +29,9 @@ The dataset used is the IMDb reviews dataset (50,000+ samples).
 ![Confusion Matrix (Logistic Regression)](images/confusion_matrix_logistic_regression.png)
 ![Confusion Matrix (Naive Bayes(multinomial))](images/confusion_matrix_naive_bayes_(multinomial).png)
 
+### Model Comparison
+![compare_accuracy](images/compare_model_accuracy.png)
+
 ### 📊 Model Performance Comparison
 | Model | Accuracy | Remarks |
 |:---------------------------|:----------:|:----------------------|
@@ -72,7 +75,7 @@ Then open the local URL (usually http://localhost:8501/) in your browser.
 
 ## Try the App Online
 You can use the app directly here: [Review Predictor](https://reviewpredictor.streamlit.app/)<br>
-Simply type any product review in the input box and click Predict to see the sentiment.
+Simply type any product review in the input box and click **Predict** to see the sentiment.
 
 ## 💡 Features
 - Clean and preprocess raw text
